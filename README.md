@@ -63,6 +63,7 @@ The model was trained for 40 epochs, and performance was measured by classificat
 | Model Architecture                | Test Accuracy |
 | --------------------------------- | ------------- |
 | Vision Transformer (Custom, Tiny) | 82.67%        |
+|ViT-Small (timm) Pretrained        | 97.6          |
 
 <img width="1677" height="562" alt="image" src="https://github.com/user-attachments/assets/ea3eebdb-f6b1-44f0-9612-e221ca89a0fc" />
 
